@@ -62,7 +62,7 @@ languages:
           url: "/عن-هذا-الموقع/"
           weight: 1
         - name: "عن المؤلف"
-          url: "/عن-المؤلف/"
+          url: "/عن-المؤلف/"
           weight: 2
           
 params:
