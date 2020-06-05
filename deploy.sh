@@ -1,11 +1,29 @@
 #!/usr/bin/env bash
 
-# run hugo
+set -e
+set -x
 
-# cp -R public/en into docs
+rm -rf public
+hugo
+cp -a public/en/. docs/
+cp -a public/fr/. ../socioresources-fr/docs/
+cp -a public/ar/. ../socioresources-ar/docs/
 
-# cp -R public/fr and public/ar into docs in the translation repos
+rm -rf public
 
-# rm -rf public
+exit 1
 
-# git add -A, commit, and push in each repo
+git add -A
+git commit -m "Update site"
+git push origin master
+pushd ../socioresources-fr
+git add -A
+git commit -m "Update site"
+git push origin master
+popd
+pushd ../socioresources-ar
+git add -A
+git commit -m "Update site"
+git push origin master
+popd
+
