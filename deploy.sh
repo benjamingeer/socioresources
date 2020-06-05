@@ -5,9 +5,9 @@ set -x
 
 rm -rf public
 hugo
-cp -a public/en/. docs/
-cp -a public/fr/. ../socioresources-fr/docs/
-cp -a public/ar/. ../socioresources-ar/docs/
+cp -a public/en/. docs/blog/
+cp -a public/fr/. ../socioresources-fr/docs/blog/
+cp -a public/ar/. ../socioresources-ar/docs/blog/
 rm -rf public
 
 git add -A
