@@ -1,0 +1,69 @@
+@import '../bootstrap4-blog/source/scss/main';
+
+.blog-masthead {
+  background-color: #220e10;
+}
+
+body {
+  color: #000;
+}
+
+.blog-title {
+  font-size: 3rem;
+  color: #220e10;
+}
+
+.blog-post-title {
+   font-size: 2rem;
+}
+
+.blog-description, .blog-post-meta, .blog-footer {
+  color: #444;
+}
+
+article blockquote {
+  font-size: 1rem;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+h2:lang(en),
+h2:lang(fr),
+h3:lang(en),
+h3:lang(fr),
+h4:lang(en),
+h4:lang(fr),
+.blog-post-title:lang(en),
+.blog-post-title:lang(fr),
+.nav-link:lang(en),
+.nav-link:lang(fr) {
+  font-family: $font-family-sans-serif;
+}
+
+body:lang(ar) {
+  font-family: 'Noto Naskh Arabic';
+}
+
+article.blog-post {
+  font-family: 'Noto Serif', serif;
+  font-size: 1rem;
+}
+
+article.blog-post:lang(ar) {
+  font-size: 22px;
+}
+
+.blog-title:lang(ar), .blog-post-title:lang(ar), .sidebar-heading:lang(ar) {
+  font-family: 'Noto Kufi Arabic';
+}
+
+a.svg:visited, a.svg:active, a.svg:hover {
+  text-decoration: none;  
+}
+
+.sidebar-module {
+  background-color: #eee;
+}

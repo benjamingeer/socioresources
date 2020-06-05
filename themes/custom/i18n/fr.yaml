@@ -1,0 +1,5 @@
+- id: categories
+  translation: "Catégories"
+
+- id: tags
+  translation: "Mots-clefs"

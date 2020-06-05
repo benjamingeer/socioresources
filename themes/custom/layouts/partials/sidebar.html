@@ -1,0 +1,19 @@
+<div class="blog-sidebar">
+<div class="sidebar-module">
+<h4 class="sidebar-heading">{{ i18n "categories" }}</h4>
+<ul>
+    {{ range .Site.Taxonomies.categories }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+    {{ end }}
+</ul>
+</div>
+
+<div class="sidebar-module">
+<h4 class="sidebar-heading">{{ i18n "tags" }}</h4>
+<ul>
+    {{ range .Site.Taxonomies.tags }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+    {{ end }}
+</ul>
+</div>
+</div>

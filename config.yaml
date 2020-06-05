@@ -1,0 +1,69 @@
+theme:
+  - custom
+  - bootstrap4-blog
+DefaultContentLanguage: en
+paginate: 5
+
+copyright: "[CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) Copyright © 2020 by Benjamin Geer"
+
+permalinks:
+  posts: "/:year/:month/:slug/"
+  page: "/:slug/"
+  /: "/:slug/"
+
+languages:
+  en:
+    baseURL: "https://socioresources.net/blog"
+    languageCode: en
+    contentDir: content/en
+    languageName: English
+    title: SocioResources
+    weight: 1
+    params:
+      description: for autonomous sociology
+    menu:
+      navbar:
+        - name: "About This Site"
+          url: "/about-this-site/"
+          weight: 1
+        - name: "About the Author"
+          url: "/about-the-author/"
+          weight: 2
+  fr:
+    baseURL: "https://ressources-sociologiques.net/blog"
+    languageCode: fr
+    contentDir: content/fr
+    languageName: Français
+    title: Ressources sociologiques
+    weight: 2
+    params:
+      description: pour une sociologie autonome
+    menu:
+      navbar:
+        - name: "À propos de ce site"
+          url: "/a-propos-de-ce-site/"
+          weight: 1
+        - name: "À propos de l'auteur"
+          url: "/a-propos-de-lauteur/"
+          weight: 2
+  ar:
+    baseURL: "https://موارد-سوسيولوجية.شبكة/blog"
+    languageCode: ar
+    contentDir: content/ar
+    languageName: العربية
+    languageDirection: rtl
+    title: موارد سوسيولوجية
+    weight: 3
+    params:
+      description: من أجل علم اجتماع مستقل
+    menu:
+      navbar:
+        - name: "عن هذا الموقع"
+          url: "/عن-هذا-الموقع/"
+          weight: 1
+        - name: "عن المؤلف"
+          url: "/عن-المؤلف/"
+          weight: 2
+          
+params:
+  date_format: "2006-01-02"

@@ -1,0 +1,53 @@
+- id: about
+  translation: "عن هذا الموقع"
+
+- id: home
+  translation: "الصفحة الرئيسية"
+
+- id: recentPosts
+  translation: "التدوينات الأخيرة"
+
+- id: readMore
+  translation: "اقرأ المزيد"
+
+- id: translations
+  translation: "الترجمات"
+
+- id: categories
+  translation: "التصنيفات"
+
+- id: tags
+  translation: "الوسوم"
+
+- id: share
+  translation: "شارِك"
+
+- id: paginatorPrevious
+  translation: "الصفحة السابقة"
+
+- id: paginatorNext
+  translation: "الصفحة التالية"
+
+- id: cookieMessage
+  translation: "هذا الموقع يستخدم ملفات كوكيز"
+
+- id: cookieLink
+  translation: "المزيد من المعلومات"
+
+- id: cookieAccept
+  translation: "أوافق"
+
+- id: backToTop
+  translation: "العودة إلى الأعلى"
+
+- id: links
+  translation: "روابط"
+
+- id: authoredBy
+  translation: "بقلم"
+
+- id: postedIn
+  translation: "في"
+
+- id: comma
+  translation: "،"

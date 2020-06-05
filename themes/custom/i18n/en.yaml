@@ -1,0 +1,5 @@
+- id: categories
+  translation: "Categories"
+
+- id: tags
+  translation: "Tags" 
