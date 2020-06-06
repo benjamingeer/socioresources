@@ -55,7 +55,7 @@
           {{ end }}
 
           {{ range $.Site.Home.AllTranslations }}
-          {{ if ne $currentPage.Lang .Lang }}<a class="nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>{{ end }}
+          {{ if ne $currentPage.Lang .Lang }}<a class="nav-link" href="{{ .Permalink }}" lang="{{ .Lang }}">{{ .Language.LanguageName }}</a>{{ end }}
           {{ end }}
         </nav>
       </div>
@@ -92,8 +92,8 @@
 
     {{ block "footer" . }}
     <footer class="blog-footer">
-      <p dir="auto">
-	<a class="svg" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">{{ readFile (print "svg/by-sa.svg") | safeHTML}}</a> Copyright © 2020 by Benjamin Geer
+      <p dir="auto" class="copyright">
+	<a class="svg" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" lang="en">{{ readFile (print "svg/by-sa.svg") | safeHTML}}</a> Copyright © 2020 by Benjamin Geer
       </p>
       <p>
       <a href="#">{{ i18n "backToTop" }}</a>

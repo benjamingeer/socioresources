@@ -1,6 +1,6 @@
 ---
 title: عن هذا الموقع
-author: Benjamin Geer
+author: بنجامين گير
 type: page
 date: 2014-05-11T21:15:27+00:00
 slug: عن-هذا-الموقع

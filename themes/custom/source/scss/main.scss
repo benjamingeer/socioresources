@@ -39,7 +39,8 @@ h4:lang(fr),
 .blog-post-title:lang(en),
 .blog-post-title:lang(fr),
 .nav-link:lang(en),
-.nav-link:lang(fr) {
+.nav-link:lang(fr),
+.copyright {
   font-family: $font-family-sans-serif;
 }
 
@@ -56,7 +57,11 @@ article.blog-post:lang(ar) {
   font-size: 22px;
 }
 
-.blog-title:lang(ar), .blog-post-title:lang(ar), .sidebar-heading:lang(ar) {
+.nav-link:lang(ar),
+.blog-title:lang(ar),
+.blog-post-title:lang(ar),
+.sidebar-heading:lang(ar),
+.btn:lang(ar) {
   font-family: 'Noto Kufi Arabic';
 }
 

@@ -1,6 +1,6 @@
 ---
 title: عن المؤلف
-author: Benjamin Geer
+author: بنجامين گير
 type: page
 date: 2020-06-02T14:12:02.607Z
 slug: عن-المؤلف
