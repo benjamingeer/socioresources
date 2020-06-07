@@ -175,17 +175,17 @@ tags:
 
 
 [^1]: توجد لمحة عامة عن هذه الحركة في Geoffrey Pleyers, _Alter-Globalization: Becoming Actors in a
-Global Age_ (Cambridge: Polity, 2010).&rlm;
+Global Age_ (Cambridge: Polity, 2010).&#8206;
 
 [^2]: انظر Franz Schultheis, [Salvation Goods and Domination: Pierre
 Bourdieu's Sociology of the Religious
 Field](https://www.alexandria.unisg.ch/publications/42236), in
 _Salvation Goods and Religious Markets: Theory and Applications_,
-ed. Jörg Stolz (Bern: Peter Lang, 2008).&rlm;
+ed. Jörg Stolz (Bern: Peter Lang, 2008).&#8206;
 
-[^3]: مايكل بوراووي، [نحو سوسيولوجيا للعموم](https://caus.org.lb/product/%D9%85%D8%AC%D9%84%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA-3/)، إضافات: المجلة العربية لعلم الاجتماع، العدد العاشر (2010): ص 77-117.&rlm;
+[^3]: مايكل بوراووي، [نحو سوسيولوجيا للعموم](https://caus.org.lb/product/%D9%85%D8%AC%D9%84%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA-3/)، إضافات: المجلة العربية لعلم الاجتماع، العدد العاشر (2010): ص 77-117.&#8206;
 
 [^4]: Pierre Bourdieu, [Fourth Lecture. Universal Corporatism: The
 Role of Intellectuals in the Modern
 World](https://www.jstor.org/stable/1772708), _Poetics Today_ 12,
-no. 4 (1991): 655-669.&rlm;
+no. 4 (1991): 655-669.&#8206;
