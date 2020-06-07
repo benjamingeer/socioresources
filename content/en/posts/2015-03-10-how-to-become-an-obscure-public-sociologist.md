@@ -18,7 +18,7 @@ taken place, and similar social movements were springing up around the
 world. I played a small role in this 'alter-globalisation'[^1] movement,
 as one of the founders of a [short-lived London
 branch](http://web.archive.org/web/20020805164825/http://www.attac.org.uk/attac/html/index.vm)
-of the international [ATTAC](http://www.attac.org)network. Launched in
+of the international [ATTAC](http://www.attac.org) network. Launched in
 France in 1998, ATTAC opposed neoliberal economics and advocated
 policies that aimed to limit the power of the global financial
 markets. As a French speaker with a good knowledge of French
