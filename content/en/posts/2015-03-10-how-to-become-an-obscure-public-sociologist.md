@@ -80,7 +80,7 @@ approach met with a great deal of scepticism from peers, as I found
 when I submitted versions of it to journals or presented it at
 conferences.
 
-As you may have guessed, a PhD in area studies,[from a non-top-ranked
+As you may have guessed, a PhD in area studies, [from a non-top-ranked
 university](https://chroniclevitae.com/news/929-academia-s-1-percent),
 resulting in an interdisciplinary thesis that dealt with Egyptian
 nationalism and involved sociology, history, literature, and cognitive
