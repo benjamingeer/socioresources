@@ -14,7 +14,7 @@ git add -A
 git commit -m "Update site"
 git push origin master
 
-unset -e
+set +e
 
 pushd ../socioresources-fr
 git add -A
