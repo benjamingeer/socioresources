@@ -3,3 +3,9 @@
 
 - id: tags
   translation: "Mots-clefs"
+
+- id: postedIn
+  translation: "dans"
+
+- id: comma
+  translation: ","

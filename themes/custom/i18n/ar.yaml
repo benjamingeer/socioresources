@@ -43,9 +43,6 @@
 - id: links
   translation: "روابط"
 
-- id: authoredBy
-  translation: "بقلم"
-
 - id: postedIn
   translation: "في"
 

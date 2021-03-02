@@ -2,4 +2,7 @@
   translation: "Categories"
 
 - id: tags
-  translation: "Tags" 
+  translation: "Tags"
+
+- id: comma
+  translation: ","
