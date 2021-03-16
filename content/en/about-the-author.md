@@ -22,6 +22,9 @@ African Studies (SOAS)](http://www.soas.ac.uk), University of London.
 
 ### Publications
 
+You can download open-access versions of all my publications via
+the links in my ORCID profile:
+
 {{< orcid "0000-0002-2449-8558" >}}
 
 ### On Other Sites
