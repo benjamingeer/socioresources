@@ -9,15 +9,16 @@ translationKey: about-the-author
 
 ### In Brief
 
-My name is Benjamin Geer. I'm a software developer and researcher at the [Data
-and Service Center for the Humanities](https://dasch.swiss) at the [University
-of Basel](http://www.unibas.ch). In the past I've served as Visiting Assistant
-Professor and Associate Director of the [Middle East Studies
-Center](http://www.aucegypt.edu/GAPP/mesc/Pages/default.aspx) at the [American
-University in Cairo](http://www.aucegypt.edu), and taught Arabic at the
-[University of Tübingen](http://www.uni-tuebingen.de). I did my PhD in Middle
-East Studies at the [School of Oriental and African Studies
-(SOAS)](http://www.soas.ac.uk), University of London.
+My name is Benjamin Geer. I'm a software developer at the [Data and
+Service Center for the Humanities](https://dasch.swiss) at the
+[University of Basel](http://www.unibas.ch). In the past I've served
+as Visiting Assistant Professor and Associate Director of the [Middle
+East Studies
+Center](http://www.aucegypt.edu/GAPP/mesc/Pages/default.aspx) at the
+[American University in Cairo](http://www.aucegypt.edu), and taught
+Arabic at the [University of Tübingen](http://www.uni-tuebingen.de). I
+did my PhD in Middle East Studies at the [School of Oriental and
+African Studies (SOAS)](http://www.soas.ac.uk), University of London.
 
 ### Publications
 

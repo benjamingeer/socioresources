@@ -9,7 +9,7 @@ translationKey: about-the-author
 
 ## En un mot
 
-Je m'appelle Benjamin Geer. Je suis informaticien et chercheur au [Data and
+Je m'appelle Benjamin Geer. Je suis informaticien au [Data and
 Service Center for the Humanities](https://dasch.swiss) à [l'Université de
 Bâle](http://www.unibas.ch). J'ai été professeur adjoint invité et directeur
 adjoint du [Centre d'études du
