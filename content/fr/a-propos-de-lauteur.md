@@ -22,7 +22,7 @@ d'études du Moyen-Orient à la [School of Oriental and African Studies
 ## Publications
 
 Toutes mes publications sont disponibles en libre accès sur les liens
-qui se trouvent dans mon profil ORCID:
+qui se trouvent dans mon profil ORCID :
 
 {{< orcid "0000-0002-2449-8558" >}}
 
