@@ -9,14 +9,14 @@ translationKey: about-the-author
 
 ## En un mot
 
-Je m'appelle Benjamin Geer. Je suis informaticien au [Data and
-Service Center for the Humanities](https://dasch.swiss) à [l'Université de
-Bâle](http://www.unibas.ch). J'ai été professeur adjoint invité et directeur
-adjoint du [Centre d'études du
+Je m'appelle Benjamin Geer. Je suis informaticien et ancien
+chercheur. J'ai été professeur adjoint invité et directeur adjoint du
+[Centre d'études du
 Moyen-Orient](http://www.aucegypt.edu/GAPP/mesc/Pages/default.aspx) à
-[l'Université américaine du Caire](http://www.aucegypt.edu) et enseigné l'arabe
-à [l'Université de Tübingen](http://www.uni-tuebingen.de). J'ai fait un doctorat
-d'études du Moyen-Orient à la [School of Oriental and African Studies
+[l'Université américaine du Caire](http://www.aucegypt.edu) et
+enseigné l'arabe à [l'Université de
+Tübingen](http://www.uni-tuebingen.de). J'ai fait un doctorat d'études
+du Moyen-Orient à la [School of Oriental and African Studies
 (SOAS)](http://www.soas.ac.uk/) de l'Université de Londres.
 
 ## Publications
