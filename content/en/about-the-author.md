@@ -18,6 +18,8 @@ Arabic at the [University of Tübingen](http://www.uni-tuebingen.de). I
 did my PhD in Middle East Studies at the [School of Oriental and
 African Studies (SOAS)](http://www.soas.ac.uk), University of London.
 
+See my [personal web site](https://benjamingeer.name).
+
 ### Publications
 
 You can download open-access versions of all my publications via

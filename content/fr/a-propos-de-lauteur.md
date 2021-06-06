@@ -19,6 +19,8 @@ Tübingen](http://www.uni-tuebingen.de). J'ai fait un doctorat d'études
 du Moyen-Orient à la [School of Oriental and African Studies
 (SOAS)](http://www.soas.ac.uk/) de l'Université de Londres.
 
+Voir mon [site personnel](https://benjamingeer.name/fr/).
+
 ## Publications
 
 Toutes mes publications sont disponibles en libre accès sur les liens
