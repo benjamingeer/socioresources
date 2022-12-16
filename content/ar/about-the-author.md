@@ -28,7 +28,7 @@ translationKey: about-the-author
 ## على مواقع أخرى
 
 يمكنك
-[متابعتي على تويتر](http://twitter.com/benjamingeer).
+[متابعتي على ماستودون](https://fediscience.org/@benjamingeer).
 ولا يزال بإمكانك أن تقرأ
 [مدونتي العلمية الأولى](http://benjamingeer.blogspot.com)، المكتوبة باللغة العربية فقط.
 

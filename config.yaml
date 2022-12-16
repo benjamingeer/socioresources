@@ -29,6 +29,7 @@ languages:
         - name: "About the Author"
           url: "/about-the-author/"
           weight: 2
+    sharingicons: false
   fr:
     baseURL: "https://ressources-sociologiques.net/blog"
     languageCode: fr
@@ -46,6 +47,7 @@ languages:
         - name: "À propos de l'auteur"
           url: "/a-propos-de-lauteur/"
           weight: 2
+    sharingicons: false
   ar:
     baseURL: "https://موارد-سوسيولوجية.شبكة/blog"
     languageCode: ar
@@ -64,6 +66,7 @@ languages:
         - name: "عن المؤلف"
           url: "/عن-المؤلف/"
           weight: 2
+    sharingicons: false
           
 params:
   date_format: "2006-01-02"

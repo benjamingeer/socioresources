@@ -29,7 +29,7 @@ the links in my ORCID profile:
 
 ### On Other Sites
 
-You can [follow me on Twitter](http://twitter.com/benjamingeer). You
+You can [follow me on Mastodon](https://fediscience.org/@benjamingeer). You
 can also still read my previous [Arabic-language research
 blog](http://benjamingeer.blogspot.com).
 

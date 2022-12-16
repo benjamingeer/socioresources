@@ -30,7 +30,7 @@ qui se trouvent dans mon profil ORCID :
 
 ## Sur d'autres sites
 
-Vous pouvez [me suivre sur Twitter](http://twitter.com/benjamingeer). Vous
+Vous pouvez [me suivre sur Mastodon](https://fediscience.org/@benjamingeer). Vous
 pouvez toujours consulter mon ancien [blog de recherche en
 arabe](http://benjamingeer.blogspot.com).
 
