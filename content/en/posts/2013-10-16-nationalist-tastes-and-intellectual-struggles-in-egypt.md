@@ -34,4 +34,4 @@ streets. The nationalism that emerged from this struggle, and became
 part of respectable mainstream tastes, increasingly resembled
 religion, and helped legitimize military dictatorship in the 1950s.
 
-{{< vimeo 307445459 >}}
+{{< peertube makertube.net c7eb66e9-889b-447d-9ef2-0377f3d7c222 >}}

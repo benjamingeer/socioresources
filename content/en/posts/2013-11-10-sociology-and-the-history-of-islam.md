@@ -18,7 +18,7 @@ series called 'Introduction to the Study of the Contemporary Middle
 East', organised by the university's [Middle East
 Institute](http://www.mei.nus.edu.sg), where I was then a post-doc.
 
-{{< vimeo 307445812 >}}
+{{< peertube makertube.net c0231b83-2f1f-4f1a-946d-5583f1ed824c 307445812 >}}
 
 &nbsp;
 
